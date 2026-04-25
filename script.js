@@ -59,12 +59,12 @@ function closePopup() {
 
 // call
 function makeCall() {
-    window.location.href = "tel:+911234567890";
+    window.location.href = "tel:+919257004958";
 }
 
 // whatsapp
 function openWhatsApp() {
-    window.open("https://wa.me/911234567890", "_blank");
+    window.open("https://wa.me/919257004958", "_blank");
 }
 
 // click outside close
